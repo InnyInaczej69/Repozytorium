@@ -1,1 +1,2 @@
 Linia z main zmieniona
+Linia z branch1
